@@ -76,6 +76,15 @@ const sem_5 = {
 }
 
 const sem_6 = {
+    "Data Mining and Knowledge Discovery":"https://drive.google.com/drive/folders/1dzsy95FifHl3bI-N36X0BQk1Sr9ii7ad?usp=drive_link",
+    "Network and Web Security":"https://drive.google.com/drive/folders/1DxUCZR2KIhSHnO3A5INavWsGbD5ytbMU?usp=drive_link",
+    "Software Quality and Assurance Testing":"https://drive.google.com/drive/folders/1mmmImmTKXtcMy2Eplm109Yd9IjKH2mfL?usp=drive_link",
+    "Software Project Management":"https://drive.google.com/drive/folders/1JCkZcN4ARUvLVgWFmQnXtoiAoe02WP7k?usp=drive_link",
+    "Disaster Management":"https://drive.google.com/drive/folders/1s-fkR6HvlnAbdXrQJImSwAhL9aQ1ttlJ?usp=drive_link",
+    "Go Programming":"https://drive.google.com/drive/folders/1OgaddgW0II8Wg7VWqV_aZWk4jX3XyPod?usp=drive_link"
+}
+
+const sem_7 = {
 
 }
 
